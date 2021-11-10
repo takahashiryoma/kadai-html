@@ -1,0 +1,21 @@
+header {
+    backgraund-color: #ffcccc;
+}
+
+#wrapper {
+    display: flex 
+}
+
+#main {
+     backgraund-color: #ccffcc;
+     width: 700px
+}
+
+#menu {
+     backgraund-color: #ccccff;
+     width: 300px
+}
+
+footer {
+     backgraund-color: #ffccff;
+}
