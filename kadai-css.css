@@ -1,5 +1,8 @@
+@charset "UTF-8";
+
 header {
-    backgraund-color: #ffcccc;
+   background-color: #ffcccc;
+   width: 1000px;
 }
 
 #wrapper {
@@ -7,15 +10,16 @@ header {
 }
 
 #main {
-     backgraund-color: #ccffcc;
+     background-color: #ccffcc;
      width: 700px
 }
 
 #menu {
-     backgraund-color: #ccccff;
+     background-color: #ccccff;
      width: 300px
 }
 
 footer {
-     backgraund-color: #ffccff;
+     background-color: #ffccff;
+     width: 1000px
 }
