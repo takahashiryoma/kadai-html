@@ -6,12 +6,14 @@ header {
 }
 
 #wrapper {
-    display: flex 
+    display: flex;
+    width: 1000px;
 }
 
 #main {
      background-color: #ccffcc;
-     width: 700px
+     width: 700px;
+     
 }
 
 #menu {
